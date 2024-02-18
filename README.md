@@ -44,3 +44,7 @@
 
 ## Результат рабботы программы программы
 ![Результат выполнения работты](https://sun9-78.userapi.com/impg/ZHmZENX253RbxwLZZGDqAnReEuM3SdcPi1e-TA/HIyl1AE6igw.jpg?size=620x361&quality=96&sign=66e45f4293fa1151e33042ccd0c5ed44&type=album)
+
+## Блок схема фаил blok_shem.jpeg
+
+![Результат выполнения работты](https://raw.githubusercontent.com/my-kitty/results_001.geegBrains/main/blok_shem.jpeg)
